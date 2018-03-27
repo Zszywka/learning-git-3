@@ -1,2 +1,2 @@
-# learning-git-3
-learning-git-project 7.3
+Check it out:
+https://zszywka.github.io/learning-git-3/
