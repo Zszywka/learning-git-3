@@ -12,7 +12,7 @@ body {
     text-align: center;
     color: #fff; }
     body h1::first-line {
-      color: red; }
+      color: #fff; }
   body p {
     text-align: center;
     font-size: 20px;
