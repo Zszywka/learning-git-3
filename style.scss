@@ -1,5 +1,6 @@
 body {
-  background-image: url(https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-image: url(https://images.pexels.com/photos/256096/pexels-photo-256096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  // background-image: url(https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-attachment: fixed;
   background-size: cover;
   .container {
@@ -11,6 +12,7 @@ body {
   h1 {
     text-transform: uppercase;
     text-align: center;
+    color: #fff;
     &::first-line {
       color: red;
     }
@@ -20,7 +22,8 @@ body {
     font-size: 20px;
     font-weight: bold;
     line-height: 30px;
-    background: #fff;
+    background: #1B2F45;
     padding: 15px;
+    color: #fff;
   }
 }
