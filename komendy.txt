@@ -1,22 +1,22 @@
-1. wpisanie komendy:
+1. command:
 nu-html-checker index.html index.html
 
-wynik:
+result:
 44:3-14  error  Stray end tag “container”.
 45:1-7   error  End tag for  “body” seen, but there were unclosed elements.
 11:3-25  error  Unclosed element “div”.
 
-2. poprawa błędów
+2. fix bugs
 
-3. wpisanie komendy:
+3. command:
 nu-html-checker index.html index.html
 
-wynik:
+result:
 index.html
 No validation errors found!
 
 ________________________________________________________________________________
-1. wpisanie komendy:
+1. command:
 autoprefixer-cli *.css
 
-wynik: znak zachęty 
+result: $ (incentive sign) 
