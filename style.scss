@@ -3,6 +3,7 @@ body {
   // background-image: url(https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-attachment: fixed;
   background-size: cover;
+  display: flex;
   .container {
     width: 30%;
     padding: 10px;
@@ -23,6 +24,8 @@ body {
     font-weight: bold;
     line-height: 30px;
     background: #1B2F45;
+    border: 2px solid #1B2F45;
+    border-radius: 25px;
     padding: 15px;
     color: #fff;
   }
