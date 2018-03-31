@@ -1,0 +1,9 @@
+body { background-image: url(https://images.pexels.com/photos/256096/pexels-photo-256096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); background-attachment: fixed; background-size: cover; display: -ms-flexbox; display: flex; }
+
+body .container { width: 30%; padding: 10px; margin: 10px; line-height: 40px; }
+
+body h1 { text-transform: uppercase; text-align: center; color: #fff; }
+
+body h1::first-line { color: #fff; }
+
+body p { text-align: center; font-size: 20px; font-weight: bold; line-height: 30px; background: #1B2F45; border: 2px solid #1B2F45; border-radius: 25px; padding: 15px; color: #fff; }
